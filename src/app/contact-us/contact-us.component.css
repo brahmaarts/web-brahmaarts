@@ -1,0 +1,25 @@
+.bg-image{
+    background-image: url('../../assets/contactUs/ContactUsImg.JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../assets/contactUs/ContactUsImg.JPG');
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+form{
+    padding-top: 75px;
+}
+
+panel {
+    background-image: url('../../assets/contactUs/ContactUsImg.JPG');   
+}
