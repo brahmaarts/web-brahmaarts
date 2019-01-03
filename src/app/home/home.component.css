@@ -1,0 +1,11 @@
+.carousel-item {
+    /*lets override other properties*/
+    width: auto;
+    margin: 0;
+    text-align: right;
+}
+
+.carousel-caption {
+    text-align: right;
+    color: black;
+}
