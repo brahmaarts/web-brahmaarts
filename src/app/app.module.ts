@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
 import { BsNavbarComponent } from './bs-navbar/bs-navbar.component';
 import { HomeComponent } from './home/home.component';
 import { ContactUsComponent } from './contact-us/contact-us.component';
-import { CarouselBasicComponent } from './carousel-basic/carousel-basic.component'
+import { CarouselComponent } from './carousel/carousel.component'
 
 @NgModule({
   declarations: [
@@ -17,7 +17,7 @@ import { CarouselBasicComponent } from './carousel-basic/carousel-basic.componen
     BsNavbarComponent,
     HomeComponent,
     ContactUsComponent,
-    CarouselBasicComponent
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
