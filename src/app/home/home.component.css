@@ -1,6 +1,10 @@
 .custom { 
-    padding-top: 75px;
-    background-color: black
+    padding-top: 60px;
+    background: url('../../assets/home/digital-art.jpg') no-repeat center;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 66,64%; 
  }
 
  .display-4 {
@@ -13,6 +17,7 @@
  .blockquote {
      color: white;
      line-height: 20px;
+     font-weight: bold;
  }
 
  hr { background-color: white; height: 1px; border: 0; }
