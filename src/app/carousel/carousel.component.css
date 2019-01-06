@@ -5,7 +5,12 @@
     right: auto;
 }
 
-h5,p {
+h5 {
+    padding-top: 4px;
+    line-height: 0.8;
+}
+
+p {
     line-height: 0.7;
 }
 
