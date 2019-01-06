@@ -26,6 +26,7 @@ import { CarouselComponent } from './carousel/carousel.component'
     BrowserAnimationsModule,
     NgbModule.forRoot(),
     RouterModule.forRoot([
+      { path: '', component: HomeComponent},
       { path: 'home', component: HomeComponent },
       { path: 'contactus', component: ContactUsComponent }
     ])

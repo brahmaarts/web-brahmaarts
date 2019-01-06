@@ -1,9 +1,22 @@
 .custom { 
     padding-top: 75px;
+    background-color: black
  }
 
- .display-1 {
+ .display-4 {
     color: yellow;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    padding-bottom: 0px;
+ }
+
+ .blockquote {
+     color: white;
+     line-height: 20px;
+ }
+
+ hr { background-color: white; height: 1px; border: 0; }
+
+ small {
+    line-height: 100%;
  }
