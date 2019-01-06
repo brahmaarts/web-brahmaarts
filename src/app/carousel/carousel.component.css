@@ -18,3 +18,10 @@ h5,p {
 .carousel-indicators {
     bottom: 10px;
 }
+
+@media screen and (min-width: 300px) and (max-width: 767px){
+    /* Hide captions class  */
+    .carousel-caption {
+       display: block !important;
+    }
+}
