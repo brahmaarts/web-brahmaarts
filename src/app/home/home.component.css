@@ -25,14 +25,23 @@
    width: 135%;
  }
 
+ .fa-map-marker {
+    color:blue;
+ }
+
  hr { background-color: white; height: 1px; border: 0; }
 
  small {
     line-height: 100%;
  }
 
+ a {
+    font-weight: initial;
+    color:blue;
+    font-size: 15px;
+ }
+
  @media screen and (min-width: 300px) and (max-width: 767px){
-   /* Hide captions class  */
    img {
       height: 15%;
       width: 15%;
