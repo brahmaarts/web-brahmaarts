@@ -30,3 +30,15 @@
  small {
     line-height: 100%;
  }
+
+ @media screen and (min-width: 300px) and (max-width: 767px){
+   /* Hide captions class  */
+   img {
+      height: 15%;
+      width: 15%;
+   }
+   .display-4 {
+      font-size: 40px;
+      text-align: center;
+   }
+}
